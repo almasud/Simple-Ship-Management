@@ -1,0 +1,24 @@
+                      /*Site Instruction*/
+					  
+Developed by:Abdullah Almasud.
+8th semester of computer technology.
+Dinajpur Polytechnic Institute.
+
+/*Category & page*/
+There are post view basis on the distinct category and page feature availabe in user site
+but admin site is temporary unavilable.
+
+/*Galllery photo*/
+There are may be some work in gallery site when the photogallery folder is blanck.
+When you upload a image on blanck photogallery folder first time please follow the
+Instruction to synchronize your gallery photo beacause it is not basis on database.
+
+Go to ->> http://localhost/"yourfolderdirectory"/admin/images/folio-gallery.php then click
+on the Photogallery link and reload index page(This is first time only when folder is blank).
+
+/*Photo support less than 5 MB*/
+
+
+Thanks for your patience,
+
+Abdullah Almasud.
