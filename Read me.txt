@@ -1,12 +1,7 @@
                       /*Site Instruction*/
 					  
-Developed by:Abdullah Almasud.
-8th semester of computer technology.
-Dinajpur Polytechnic Institute.
-
-/*Category & page*/
-There are post view basis on the distinct category and page feature availabe in user site
-but admin site is temporary unavilable.
+Developed by: Abdullah Almasud.
+Year: 2015
 
 /*Galllery photo*/
 There are may be some work in gallery site when the photogallery folder is blanck.
