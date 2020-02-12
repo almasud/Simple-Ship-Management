@@ -1,11 +1,11 @@
                       /*Site Instruction*/
 					  
 Developed by: Abdullah Almasud.
-Year: 2015
+Year: 2013
 
 /*Galllery photo*/
-There are may be some work in gallery site when the photogallery folder is blanck.
-When you upload a image on blanck photogallery folder first time please follow the
+There are may need some work in gallery site when the photogallery folder is blanck.
+When you upload an image on blanck photogallery folder first time please follow the
 Instruction to synchronize your gallery photo beacause it is not basis on database.
 
 Go to ->> http://localhost/"yourfolderdirectory"/admin/images/folio-gallery.php then click
