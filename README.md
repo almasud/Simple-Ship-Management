@@ -1,2 +1,2 @@
 # Simple-Ship-Management
-This project is developed in PHP by me during my college life (Probably 2013).
+This project is developed by me (wihout OOP) during my college time (Probably 2013).
